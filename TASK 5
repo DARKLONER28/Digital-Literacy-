@@ -1,34 +1,60 @@
 Case Study: Phishing Attack
-What the crime is:
-Phishing is a cybercrime where attackers impersonate trusted organizations or individuals to trick victims into revealing sensitive information such as passwords, bank details, or personal data. It relies on deception and social engineering rather than technical hacking.
-How it typically happens (step-by-step):
-- The attacker creates a fake email or website that looks identical to a legitimate one (e.g., a bank or university portal).
-- The victim receives an urgent message — often claiming account suspension, prize winnings, or security alerts.
-- The message contains a malicious link or attachment.
-- When the victim clicks the link, they are redirected to a fraudulent login page.
-- The victim enters their credentials, which are then captured by the attacker.
-Who is usually targeted:
-Phishing often targets students, employees, and everyday internet users who may not carefully verify links. Organizations like banks, universities, and e-commerce platforms are commonly impersonated.
-Consequences:
-Victims may suffer financial loss, identity theft, or unauthorized access to personal accounts. For students, this could mean compromised academic records or stolen personal data. On a larger scale, phishing can damage institutional trust and lead to widespread data breaches.
+
+What Phishing Attack is:
+
+Phishing Attack is a thing that people do on the internet where they pretend to be people or organizations that you trust. They try to trick you into giving them information like your password or bank details. They do this by lying to you and using tricks on you than actually hacking into things.
+
+How Phishing Attack typically happens step by step:
+
+- The bad person makes an email or website that looks just like a real one, like a bank or university website.
+
+- You get a message that says you have to do something away like your account is going to be closed or you won a prize.
+
+- The message has a link or file in it.
+
+- When you click on the link you go to a page where you have to log in.
+
+- You put in your information and the bad person gets it.
+
+Who usually gets targeted by Phishing Attack:
+
+Phishing Attack usually targets students, people who work and regular people who use the internet. These are people who may not be very careful when they click on links. The bad people like to pretend to be banks, universities and online stores.
+
+What happens when you get targeted by Phishing Attack:
+
+If you get tricked by Phishing Attack you might lose money someone might steal your identity or someone might get into your accounts. If you are a student someone might get into your school records. Steal your personal information. This can also hurt the organizations that people trust and can cause problems with peoples information.
+
 Example:
-In 2020, Google reported blocking over 100 million phishing emails daily, showing how widespread and dangerous this crime is.
 
- Prevention Checklist for collage students in India:-
-- Use strong, unique passwords for each account; avoid reusing the same password.
-- Enable two-factor authentication (2FA) on email, social media, and banking apps.
-- Verify links before clicking—especially in emails, WhatsApp, or SMS messages.
-- Avoid using public Wi-Fi for sensitive activities like banking or UPI payments.
-- Check UPI requests carefully—never approve unknown “collect” requests.
-- Confirm merchant names before making UPI payments; fraudsters often mimic real businesses.
-- Update software regularly—keep your phone, apps, and antivirus up to date.
-- Limit personal information shared online—avoid oversharing on social media.
- Reporting channel:-
+In the year 2020 Google said they stopped over 100 million Phishing Attack emails every day. This shows how common and bad Phishing Attack is.
+
+Things to do to stay safe from Phishing Attack if you are a student in India:
+
+- Use an unique password for each account do not use the same password for everything.
+
+- Turn on two-factor authentication on your email, media and banking apps.
+
+- Check links before you click on them in emails, WhatsApp or text messages.
+
+- Do not use Wi-Fi when you are doing things that need to be secret like banking or paying bills.
+
+- Be careful when someone asks you for money through UPI do not say yes if you do not know who it is.
+
+- Check the name of the person or store before you pay them through UPI bad people might be pretending to be a store.
+
+- Keep your phone and apps up to date this will help keep you safe.
+
+- Do not share much information about yourself online be careful what you put on social media.
+
+Where to report if you get targeted by Phishing Attack:
+
 - National Cyber Crime Portal: cybercrime.gov.in
-- Helpline No: 1930
 
-Project Report:-
-While researching this topic, I was most surprised by how common UPI-related frauds have become among students, especially through fake payment requests and QR codes. I assumed cybercrime was mostly about hacking or phishing emails, but realizing that everyday transactions like splitting bills or paying for food can be exploited was eye-opening. Another surprising fact was how many students hesitate to report incidents, even though the National Cyber Crime Portal and helpline 1930 are available. As a result of this research, one habit I will personally change is being more cautious with UPI payments—I will always double-check the recipient’s details before approving any transaction. This small step can prevent major financial losses and help me stay safer online.
+- Helpline number: 1930
+
+Project Report:
+
+When I was learning about Phishing Attack I was very surprised by how many students get tricked by UPI requests and QR codes. I thought cybercrime was about hacking or Phishing Attack emails but I learned that even regular things like paying for food or splitting bills can be used to trick people. I was also surprised, by how many students do not report when they get tricked even though there are people who can help them. Because of what I learned I am going to be more careful when I use UPI I will always check who I am sending
 
 
 
