@@ -1,32 +1,56 @@
 # Digital-Literacy-
-Student Details Field Details Name PIYUSH ASHOK KUMAR Branch B.Tech CSE Year First Year Course BHI100028 – Digital Literacy Project Overview This portfolio was created as part of the Digital Literacy course. The purpose of this project is to demonstrate essential digital skills required for students, including:
+Student Details
 
-Creating professional online profiles
+Field Details
 
-Understanding cyber safety practices
+Name PIYUSH ASHOK KUMAR
 
-Developing professional communication skills
+Branch B.Tech CSE
 
-Using online collaboration tools effectively
+Year First Year
 
-Through this project, I learned how to build a professional digital presence, communicate with proper email etiquette, and stay safe from cyber threats. Additionally, this project helped me understand how platforms like GitHub and HackerRank can support technical skill development.
+Course BHI100028 – Digital Literacy
 
-Task-Wise Summary ✅ Task 1 – Digital Literacy Infographic I created an infographic using Canva that explains the concept of digital literacy, highlights useful digital tools, and promotes safe internet practices for students.
+This Digital Literacy project is something I worked on as part of my Digital Literacy course. The main goal of this project is to show that I have the digital skills that students need. These skills include things like
 
-✅ Task 2 – Digital Portfolio I established my professional digital presence by creating accounts on key platforms:
+* Creating online profiles
 
-GitHub – for project portfolio and version control
+* Understanding how to stay safe on the internet
 
-LinkedIn – for professional networking
+* Learning how to communicate in a way
 
-HackerRank – for coding practice and skill development
+* Using tools to work with others
 
-✅ Task 3 – Platforms & Tools I solved beginner-level coding problems on HackerRank to strengthen my programming fundamentals. Additionally, I created a Google Form quiz focused on digital literacy awareness to help educate peers on topics such as phishing, strong passwords, and online safety.
+From this project I learned how to create a professional online presence. I also learned how to send emails and how to protect myself from cyber threats. This project also taught me about platforms like GitHub and HackerRank and how they can help me develop my skills.
 
-✅ Task 4 – Email Etiquette & Social Media Responsibility Professional Emails: Drafted two formal emails demonstrating proper email etiquette for academic and professional contexts.
+Here is a summary of what I did for each task
 
-Social Media Checklist: Created a list of responsible social media practices, including do's and don'ts for college students.
+✅ Task 1 – Digital Literacy Infographic
 
-✅ Task 5 – Cybercrime Awareness Phishing Case Study: Prepared a detailed case study on phishing, explaining how these attacks work, real-world examples, and their impact on individuals.
+I made an infographic using Canva. This infographic explains what digital literacy is. It also talks about digital tools and how to stay safe on the internet.
 
-Prevention Checklist: Developed a practical checklist for students to help prevent cybercrimes, including tips on password security, two-factor authentication, and reporting incidents.
+✅ Task 2 – Digital Portfolio
+
+I created my online presence by making accounts on important platforms.
+
+GitHub is for my project portfolio and version control.
+
+LinkedIn is for networking.
+
+HackerRank is for coding practice and skill development.
+
+✅ Task 3 – Platforms & Tools
+
+I solved beginner-level coding problems on HackerRank. This helped me get better at programming. I also made a Google Form quiz about literacy. This quiz helps teach my peers about things like phishing and online safety.
+
+✅ Task 4 – Email Etiquette & Social Media Responsibility
+
+I wrote two emails. These emails show that I know how to use email etiquette.
+
+I also made a list of social media practices. This list has dos. Don'ts for college students.
+
+✅ Task 5 – Cybercrime Awareness
+
+I did a case study on phishing. This study explains how phishing attacks work. It also gives real-world examples and talks about the impact on individuals.
+
+I made a checklist to help prevent cybercrimes. This checklist has tips, on password security and how to report incidents.
